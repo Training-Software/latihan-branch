@@ -1,0 +1,38 @@
+[
+   {
+      "id": 1,
+      "name": "kue coklat",
+      "price": 10000,
+      "ingredients": [
+         "tepung",
+         "coklat",
+         "air"
+      ],
+      "type": "chocolate",
+      "isSweet": false
+   },
+   {
+      "id": 2,
+      "name": "kue stroberi",
+      "price": 20000,
+      "ingredients": [
+         "tepung",
+         "stroberi",
+         "air"
+      ],
+      "type": "strawberry",
+      "isSweet": false
+   },
+   {
+      "id": 3,
+      "name": "kue kacang",
+      "price": 15000,
+      "ingredients": [
+         "tepung",
+         "kacang",
+         "air"
+      ],
+      "type": "sweet",
+      "isSweet": false
+   }
+]
